@@ -13,7 +13,7 @@
     Interested in building both frontend and backend web-apps, mainly with React/NodeJS but I'm eager to learn 📖! At the moment my projects go from building a new todoList app to learn Redux to an "HR-tech" side-project with some devs friends.
   <br/>
   <br/>
-    I'm also found of anime (go check "Vinland saga" if you haven't), I love French & Italian food 🧀 🍝 🍷  and I (really) hate coriander which is basically my kryptonite...
+    I'm also fond of anime (go check "Vinland saga" if you haven't), I love French & Italian food 🧀 🍝 🍷  and I (really) hate coriander which is basically my kryptonite...
 </p>
   <br/>
   <h2>My latest Demos</h2>
