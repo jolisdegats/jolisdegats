@@ -10,7 +10,7 @@
     Interested in building both frontend and backend web-apps, mainly with React/NodeJS but I'm eager to learn 📖! Below are my latest projects and the ones I'm currently working on.
   <br/>
   <br/>
-    I'm fond of anime (go check "Vinland saga" if you haven't), I love French & Italian food 🧀 🍝 🍷  and I (really) hate coriander (also called kryptonite for normal people...).
+    I'm fond of anime (go check "Vinland saga" if you haven't), I love French & Italian food 🧀 🍝 🍷  and I (really) hate coriander (also called kryptonite by normal people...).
 </p>
   <br/>
   <h2>My latest Demos</h2>
