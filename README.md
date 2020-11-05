@@ -23,9 +23,9 @@
 
   <br/>
 <h2>Current projects</h2>
- <samp>- An HR tool for managers we're building with some dev friends (team of 5) / super early stage</samp>
- <samp>- A personal project I have in mind for a while -actually for the last 3 years...- using React, Apollo/GraphQL + a headless CMS. Super excited to show you guys!</samp>
- <samp>- A project TBD to give TypeScript a try</samp>
+ <samp>- An HR tool for managers we're building with some dev friends (team of 5) / super early stage<br/>
+- A personal project I have in mind for a while -actually for the last 3 years...- using React, Apollo/GraphQL + a headless CMS. Super excited to show you guys!<br/>
+ - A project TBD to give TypeScript a try</samp>
 
 
   <br/>
