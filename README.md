@@ -27,7 +27,7 @@
 - A personal project I have in mind for a while -actually for the last 3 years...- using React, Apollo/GraphQL + a headless CMS. Super excited to show you guys!<br/>
  - A project TBD to give TypeScript a try</samp>
 
-
+<br/>
   <br/>
 <h2>Contact</h2>
 <p>💼 Find me on <a href="https://www.linkedin.com/in/julieszwarc/">LinkedIn</a></p>
