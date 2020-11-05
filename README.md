@@ -18,6 +18,15 @@
   <br/>
   <h2>My latest Demos</h2>
   <pre backgroundColor="#ffffff" align="center"><a href="https://marceau-jolisdegats.netlify.app/"><img src="https://res.cloudinary.com/dqp905mfv/image/upload/v1603452120/portfolio/ReadMe/marceau_cdlfrb.jpg" width=300></a>                 <a href="https://julieszwarc.com"><img src="https://res.cloudinary.com/dqp905mfv/image/upload/v1601871500/portfolio/ReadMe/portfolio_hmx5y8.jpg" width=300></a></pre>
+  <pre backgroundColor="#ffffff" align="center"><a href="https://trainline-jolisdegats.netlify.app"><img src="https://res.cloudinary.com/dqp905mfv/image/upload/v1602670774/portfolio/ReadMe/trainline_nt0x19.jpg" width=300></a>                 <a href="https://marvel-jolisdegats.netlify.app/"><img src="https://res.cloudinary.com/dqp905mfv/image/upload/v1601692522/portfolio/ReadMe/marvel_tseusa.jpg" width=300></a></pre>
+
+
+  <br/>
+<h2>Current projects</h2>
+ <samp>- An HR tool for managers we're building with some dev friends (team of 5) / super early stage</samp>
+ <samp>- A personal project I have in mind for a while -actually for the last 3 years...- using React, Apollo/GraphQL + a headless CMS. Super excited to show you guys!</samp>
+ <samp>- A project TBD to give TypeScript a try</samp>
+
 
   <br/>
 <h2>Contact</h2>
