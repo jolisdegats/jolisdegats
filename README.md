@@ -7,10 +7,10 @@
     Ex-marketer taking the path to the dark side... and loving it! 💻 
     <br/>
   <br/>
-    Interested in building both frontend and backend web-apps, mainly with React/NodeJS but I'm eager to learn 📖! At the moment my projects go from building a new todoList app to learn Redux to an "HR-tech" side-project with some devs friends.
+    Interested in building both frontend and backend web-apps, mainly with React/NodeJS but I'm eager to learn 📖! Below are my latest projects and the ones I'm currently working on.
   <br/>
   <br/>
-    I'm also fond of anime (go check "Vinland saga" if you haven't), I love French & Italian food 🧀 🍝 🍷  and I (really) hate coriander which is basically my kryptonite...
+    I'm fond of anime (go check "Vinland saga" if you haven't), I love French & Italian food 🧀 🍝 🍷  and I (really) hate coriander (also called kryptonite for normal people...).
 </p>
   <br/>
   <h2>My latest Demos</h2>
