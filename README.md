@@ -7,9 +7,6 @@
     Ex-marketer taking the path to the dark side... and loving it! 💻 
     <br/>
   <br/>
-   I am currently looking for a junior position/internship as a Fullstack JS developer, starting October '20 and preferably in Paris (just sayin'!).
-    <br/>
-  <br/>
     Interested in building both frontend and backend web-apps, mainly with React/NodeJS but I'm eager to learn 📖! At the moment my projects go from building a new todoList app to learn Redux to an "HR-tech" side-project with some devs friends.
   <br/>
   <br/>
@@ -43,6 +40,12 @@
 
 <!--
 **jolisdegats/jolisdegats** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+   I am currently looking for a junior position/internship as a Fullstack JS developer, starting October '20 and preferably in Paris (just sayin'!).
+    <br/>
+  <br/>
+
 
 Here are some ideas to get you started:
 
