@@ -10,7 +10,7 @@
     Interested in building both frontend and backend web-apps, mainly with React/NodeJS but I'm eager to learn 📖! Below are my latest projects and the ones I'm currently working on.
   <br/>
   <br/>
-    I'm fond of anime (go check "Vinland saga" if you haven't), I love French & Italian food 🧀 🍝 🍷  and I (really) hate coriander (also called kryptonite by normal people...).
+    I'm fond of anime (go check "Vinland saga" & "Jujutsu Kaisen" if you haven't), I love French & Italian food 🧀 🍝 🍷  and I (really) hate coriander (also called kryptonite by normal people...).
 </p>
   <br/>
   <h2>My latest Demos</h2>
@@ -20,7 +20,7 @@
 
   <br/>
 <h2>Current projects</h2>
- <samp>- An HR tool for managers we're building with some dev friends (team of 5) / super early stage<br/>
+ <samp>- An <strike>HR tool for managers</strike> App to help people learn new stuff based on swapcards with some dev friends (team of 5) / super early stage -- more coming soon !<br/>
 - A personal project I have in mind for a while -actually for the last 3 years...- using React, Apollo/GraphQL + a headless CMS. Super excited to show you guys!<br/>
  - A project TBD to give TypeScript a try</samp>
 
@@ -31,7 +31,7 @@
 
 <p>🦄 Stop by my <a href="https://julieszwarc.com">portfolio</a></p>
 
-<p>👩🏼‍💻 Take a look at my <a href="https://github.com/jolisdegats">GitHub</a></p>
+<p>👩🏼‍💻 Currently working for <a href="https://fleet.co">Fleet</a> as a FullStack JS Developer (React, Node, PostGreSQL)</p>
 <br/>
 
 
