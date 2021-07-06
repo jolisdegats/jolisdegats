@@ -20,7 +20,7 @@
 
   <br/>
 <h2>Current projects</h2>
- <samp>- An App to help people learn new stuff based on custom swapcards with some dev friends (team of 5) / early stage -- more coming soon !<br/>
+ <samp>- An App to help people learn new stuff based on custom swapcards. Team project with 5 people / early stage -- more coming soon !<br/>
 - A personal project I have in mind for a while -actually for the last 3 years...- using React, Apollo/GraphQL + a headless CMS. Super excited to show you guys!<br/>
 - A project for fun, mainly focused on frontend trends (transitions, glassmorphish/neumorphism + Firebase for the auth system and probably Firestore for the DB) -> <a href="https://where-should-we-eat-jolisdegats.netlify.app/">"Where should we eat (w.s.w.eat)"</a></samp>
 
@@ -31,7 +31,7 @@
 
 <p>🦄 Stop by my <a href="https://julieszwarc.com">portfolio</a></p>
 
-<p>👩🏼‍💻 Currently working for <a href="https://fleet.co">Fleet</a> as a FullStack JS Developer (React, Node, PostGreSQL)</p>
+<p>👩🏼‍💻 Currently working for <a href="https://govirtuo.com">Virtuo</a> as a FullStack Software Engineer (React, Next, Node, Express, MongoDB)</p>
 <br/>
 
 
