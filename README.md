@@ -18,11 +18,6 @@
   <pre backgroundColor="#ffffff" align="center"><a href="https://trainline-jolisdegats.netlify.app"><img src="https://res.cloudinary.com/dqp905mfv/image/upload/v1602670774/portfolio/ReadMe/trainline_nt0x19.jpg" width=300></a>                 <a href="https://marvel-jolisdegats.netlify.app/"><img src="https://res.cloudinary.com/dqp905mfv/image/upload/v1601692522/portfolio/ReadMe/marvel_tseusa.jpg" width=300></a></pre>
 
 
-  <br/>
-<h2>Current projects</h2>
- <samp>- An App to help people learn new stuff based on custom swapcards. Team project with 5 people / early stage -- more coming soon !<br/>
-- A personal project I have in mind for a while -actually for the last 3 years...- using React, Apollo/GraphQL + a headless CMS. Super excited to show you guys!<br/>
-- A project for fun, mainly focused on frontend trends (transitions, glassmorphish/neumorphism + Firebase for the auth system and probably Firestore for the DB) -> <a href="https://where-should-we-eat-jolisdegats.netlify.app/">"Where should we eat (w.s.w.eat)"</a></samp>
 
 <br/>
   <br/>
