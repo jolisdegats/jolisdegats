@@ -26,7 +26,7 @@
 
 <p>🦄 Stop by my <a href="https://julieszwarc.com">portfolio</a></p>
 
-<p>👩🏼‍💻 Currently working for <a href="https://govirtuo.com">Virtuo</a> as a FullStack Software Engineer (React, Next, Node, Express, MongoDB)</p>
+<p>👩🏼‍💻 Currently working for <a href="https://www.govirtuo.com">Virtuo</a> as a FullStack Software Engineer (React, Next, Node, Express, MongoDB)</p>
 <br/>
 
 
