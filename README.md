@@ -5,8 +5,8 @@
  <samp>
 I’m a <strong>tech-obsessed ex-marketer</strong> diving deep into <strong>frontend</strong> development,<br/>and occasionally enjoying some <strong>backend</strong> work. 💻<br/><br/>
 When I’m not coding, I’m either crafting DIY projects, tackling escape rooms, or binge-watching anime.<br/><br/>
-I love savoring delicious pasta 🍝 or classic French dishes 🍷, and Coriander is my kitchen nemesis!<br/><br/>
-I’m passionate about creating memorable web experiences and enjoy tackling complex challenges.<br/>Let’s connect and build something amazing together!
+I love savoring delicious pasta 🍝 or classic French dishes 🍷. Coriander is my kitchen nemesis!<br/><br/>
+I’m passionate about creating memorable web experiences and thrive on overcoming complex challenges.<br/>Let’s connect and build something amazing together!
 </div>
 <br/><br/>
 <h2>Contact</h2>
