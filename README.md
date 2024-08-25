@@ -10,6 +10,6 @@ I’m passionate about creating memorable web experiences and enjoy tackling com
 </div>
 <br/><br/>
 <h2>Contact</h2>
-💼 Find me on <a href="https://www.linkedin.com/in/julieszwarc/">LinkedIn</a><br/>
-🦄 Stop by my <a href="https://jolisdegats.dev">portfolio</a><br/>
-👩🏼‍💻 Currently working for <a href="https://www.govirtuo.com">Virtuo</a> as a FullStack Software Engineer (React, Next, Node, Express, MongoDB)
+💼 Find me on [LinkedIn](https://www.linkedin.com/in/julieszwarc/)  
+🦄 Check out my [portfolio](https://jolisdegats.dev)  
+👩🏼‍💻 Currently working at [Virtuo](https://www.govirtuo.com) as a Full-Stack Software Engineer (React, Next.js, Node.js, Express, MongoDB)
